@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prettify", "Prettify\Prettify.csproj", "{77F7397B-8064-4E8D-AEDE-55CEFE4E0060}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrettifyTests", "PrettifyTests\PrettifyTests.csproj", "{3838F629-7C9F-4CF3-AACA-B3A88237A49C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77F7397B-8064-4E8D-AEDE-55CEFE4E0060}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77F7397B-8064-4E8D-AEDE-55CEFE4E0060}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77F7397B-8064-4E8D-AEDE-55CEFE4E0060}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77F7397B-8064-4E8D-AEDE-55CEFE4E0060}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3838F629-7C9F-4CF3-AACA-B3A88237A49C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3838F629-7C9F-4CF3-AACA-B3A88237A49C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3838F629-7C9F-4CF3-AACA-B3A88237A49C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3838F629-7C9F-4CF3-AACA-B3A88237A49C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF9D375B-4CE2-4714-AE4B-B030168EBF59}
+	EndGlobalSection
+EndGlobal
